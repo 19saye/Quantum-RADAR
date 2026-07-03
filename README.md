@@ -89,3 +89,4 @@ Dinamik faz düzeltmesi yapılmadığında veya gürültü bastırma aşaması y
 Bu süreçte arka plan termal gürültüsü başarıyla ayıklanmış, saçılım grafiklerinde idler ve sinyal fotonları arasındaki kuantum bağı korelasyon yoğunluğu matrisi üzerinde matematiksel olarak kanıtlanmıştır.
 
 ---
+Lisans: MIT
