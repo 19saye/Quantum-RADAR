@@ -28,10 +28,6 @@ $$\text{idler} = \rho \cdot \text{signal} + \mathcal{N}(\mu_i, \sigma_i^2)$$
 
 Alıcı aşamasında, yansıyan gürültülü sinyal ile saklanan avare foton arasındaki faz korelasyonu ve kovaryans analizi yapılarak arka plan termal gürültüsü baskılanır:
 
-$$\text{Detection Score} = \left[ \text{corr}(\text{idler}, \text{received\_signal}) \right]^2 \times \text{SNR}^{\alpha}$$
-
----
-
 ## 3D Model ve Geometrik Analiz
 
 Proje kapsamında incelenen hayalet (stealth) uçak geometrisi, kaplamaları ve gövde açılarından kaynaklanan yansıma kayıplarını simüle etmek amacıyla modellenmiştir.
